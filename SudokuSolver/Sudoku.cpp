@@ -1,7 +1,4 @@
 // Henry Bogardus
-// CS 270
-// Project 1 - Sudoku Solver
-// Honor Statement - "I did not give or receive any unauthorized help on this assignment."
 
 #include "Sudoku.h"
 #include <iostream>

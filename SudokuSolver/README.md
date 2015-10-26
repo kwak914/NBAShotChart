@@ -1,2 +1,2 @@
 # SudokuSolver
-Project that takes in a sudoku file and solves it.
+C++ project that takes in a file with an incomplete sudoku puzzle and then solves it using a recursive backtracking solution.
